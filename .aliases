@@ -1,0 +1,19 @@
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ll="ls -la"
+alias ls="ls -G"
+
+# Git shortcuts
+alias gs="git status"
+alias gc="git commit"
+alias gp="git push"
+alias gl="git pull"
+
+# Docker
+alias d="docker"
+alias dc="docker-compose"
+
+# Development
+alias v="nvim"
+alias code="open -a 'Visual Studio Code'"
